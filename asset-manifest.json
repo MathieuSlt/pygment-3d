@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pygment-3d/static/css/main.79118ecc.css",
+    "main.css": "/pygment-3d/static/css/main.9a078f7d.css",
     "main.js": "/pygment-3d/static/js/main.c6ab7df9.js",
     "static/media/logo3d_v2.glb": "/pygment-3d/static/media/logo3d_v2.15d80eb1843c1d55ef74.glb",
     "static/media/waves.png": "/pygment-3d/static/media/waves.2cdda62a7271f2e7027d.png",
@@ -9,11 +9,11 @@
     "static/media/Syne-ExtraBold.ttf": "/pygment-3d/static/media/Syne-ExtraBold.ec26051cf662d73d9c4d.ttf",
     "static/media/Syne-Regular.ttf": "/pygment-3d/static/media/Syne-Regular.7f4be78200f513d19f88.ttf",
     "index.html": "/pygment-3d/index.html",
-    "main.79118ecc.css.map": "/pygment-3d/static/css/main.79118ecc.css.map",
+    "main.9a078f7d.css.map": "/pygment-3d/static/css/main.9a078f7d.css.map",
     "main.c6ab7df9.js.map": "/pygment-3d/static/js/main.c6ab7df9.js.map"
   },
   "entrypoints": [
-    "static/css/main.79118ecc.css",
+    "static/css/main.9a078f7d.css",
     "static/js/main.c6ab7df9.js"
   ]
 }
