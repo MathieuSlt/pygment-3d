@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/pygment-3d/static/css/main.dc840164.css",
-    "main.js": "/pygment-3d/static/js/main.eefceb14.js",
+    "main.css": "/pygment-3d/static/css/main.79118ecc.css",
+    "main.js": "/pygment-3d/static/js/main.c6ab7df9.js",
     "static/media/logo3d_v2.glb": "/pygment-3d/static/media/logo3d_v2.15d80eb1843c1d55ef74.glb",
-    "static/media/waves.svg": "/pygment-3d/static/media/waves.24626f4fe91821385fa2.svg",
-    "static/media/PygmentsLoogo.svg": "/pygment-3d/static/media/PygmentsLoogo.30558b45fb16b865ca598f7ce5631dd2.svg",
+    "static/media/waves.png": "/pygment-3d/static/media/waves.2cdda62a7271f2e7027d.png",
     "static/media/Kelbail.png": "/pygment-3d/static/media/Kelbail.84037305fef730c48ccb.png",
+    "static/media/Logo.jpg": "/pygment-3d/static/media/Logo.ec221b074cfdf1ecd8a6.jpg",
     "static/media/Syne-ExtraBold.ttf": "/pygment-3d/static/media/Syne-ExtraBold.ec26051cf662d73d9c4d.ttf",
     "static/media/Syne-Regular.ttf": "/pygment-3d/static/media/Syne-Regular.7f4be78200f513d19f88.ttf",
     "index.html": "/pygment-3d/index.html",
-    "main.dc840164.css.map": "/pygment-3d/static/css/main.dc840164.css.map",
-    "main.eefceb14.js.map": "/pygment-3d/static/js/main.eefceb14.js.map"
+    "main.79118ecc.css.map": "/pygment-3d/static/css/main.79118ecc.css.map",
+    "main.c6ab7df9.js.map": "/pygment-3d/static/js/main.c6ab7df9.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc840164.css",
-    "static/js/main.eefceb14.js"
+    "static/css/main.79118ecc.css",
+    "static/js/main.c6ab7df9.js"
   ]
 }
