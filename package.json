@@ -1,8 +1,8 @@
 {
-  "name": "pygment",
+  "name": "pygment-3d",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Sanjikush.github.io/pygment/",
+  "homepage": "https://Sanjikush.github.io/pygment-3d/",
   "dependencies": {
     "@react-three/drei": "^9.56.27",
     "@react-three/fiber": "^8.11.5",

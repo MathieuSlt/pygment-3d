@@ -12,7 +12,7 @@ import TroisD from './pages/TroisD';
 const App = () => {
   return (
     <BrowserRouter>
-      <HashRouter basename='/'>
+      <HashRouter>
         <Routes>
           <Route path='/' element={<Home />} />
           <Route path='/pygment-react' element={<Home />} />
