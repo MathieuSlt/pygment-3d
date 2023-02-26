@@ -41,11 +41,11 @@ const Navigation = () => {
                     <NavItem color={variables.troisdColor} title="3D" />
                 </NavLink>
                 <button className="nav-btn nav-close-btn" onClick={showNav}>
-                    <FaTimes />
+                    <FaTimes style={{ color: "#808080" }} />
                 </button>
             </nav>
             <button className="nav-btn" onClick={showNav}>
-                <FaBars />
+                <FaBars style={{ color: "#808080" }} />
             </button>
         </header>
     );
