@@ -1,0 +1,39 @@
+.news {
+    center {
+        text-align: center;
+        background: none;
+    }
+
+    h1 {
+        font-size: 2.5rem;
+        font-weight: 700;
+        color: #000;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        background: none;
+    }
+
+    .videowrapper {
+        float: none;
+        clear: both;
+        width: 700px;
+        position: relative;
+        padding-bottom: 56.25%;
+        padding-top: 25px;
+        height: 0;
+        margin: 0 auto;
+        background: none;
+    }
+
+    .videowrapper iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        max-width: 700px;
+        max-height: 400px;
+        background: none;
+    }
+}

@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "font-1";
+  src: url(../assets/fonts/Syne-ExtraBold.ttf);
+}
+
+@font-face {
+  font-family: "font-2";
+  src: url(../assets/fonts/Syne-Regular.ttf);
+}
+
+$font-1: "font-1", sans-serif;
+
+$newsColor: #9D63C6;
+$artistsColor: #4922a6;
+$projectColor: #65B8C4;
+$teamsColor: #FFBE0B;
+$troisdColor: #FB5607;
+
+$color1: #61dafb;
+
+:export {
+  color1: $color1;
+  newsColor: $newsColor;
+  artistsColor: $artistsColor;
+  projectColor: $projectColor;
+  teamsColor: $teamsColor;
+  troisdColor: $troisdColor;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background: #FCF6F2;
+  font-family: $font-1;
+}
+
+:root {
+  --newsColor: #FB5607;
+  --artistsColor: #FFBE0B;
+  --projectColor: #65B8C4;
+  --loginColor: #9D63C6;
+  --bgColor: #61dafb;
+}
