@@ -12,7 +12,7 @@ import TroisD from './pages/TroisD';
 const App = () => {
   return (
     <BrowserRouter>
-      <HashRouter>
+      {/* <HashRouter basename='/'> */}
         <Routes>
           <Route path='/' element={<Home />} />
           <Route path='/pygment-react' element={<Home />} />
@@ -25,7 +25,7 @@ const App = () => {
           {/* 404 */}
           <Route path='*' element={<Error />} />
         </Routes>
-      </HashRouter>
+      {/* </HashRouter> */}
     </BrowserRouter>
   );
 };
